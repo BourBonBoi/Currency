@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Сurrency</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="RU">RUB</string>
+    <string name="russian">Russian rouble</string>
+    <string name="russian_capital">Moscow</string>
+
+    <string name="ZA">ZAR</string>
+    <string name="south_african">South Africam rand</string>
+    <string name="south_african_capital">Cape Town</string>
+
+    <string name="SG">SGP</string>
+    <string name="singapore">singapore dollar</string>
+    <string name="singapore_capital">singapore</string>
+
+    <string name="TR">TUR</string>
+    <string name="turkish">Turkish lira</string>
+    <string name="turkish_capital">Ankara</string>
+
+    <string name="US">USA</string>
+    <string name="usa">dollar</string>
+    <string name="usa_capital">Washington</string>
+
+    <string name="JPY">JPU</string>
+    <string name="japan">Japan</string>
+    <string name="japan_capital">Tokio</string>
+
+    <string name="FRF">FRF</string>
+    <string name="france">France</string>
+    <string name="france_capital">Paris</string>
+
+
+
+
+
+
+    <string name="flag">flag</string>
+
+
+</resources>
